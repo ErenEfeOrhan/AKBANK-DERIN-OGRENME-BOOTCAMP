@@ -10,7 +10,7 @@ Bu proje, Kaggle'daki büyük ölçekli balık veri seti kullanarak derin öğre
 - Kütüphaneler: `TensorFlow`, `Keras`, `Pandas`, `Matplotlib`
 - Kullanılan model: Yapay Sinir Ağı (ANN)
 - Eğitim: Veri artırma kullanılarak eğitim gerçekleştirilecektir.
-- **Kaggle Notebook Linki**: 
+- **Kaggle Notebook Linki**: https://www.kaggle.com/code/erenefeorhan/deeplearning
 
 ## Geliştirme Ortamı
 
