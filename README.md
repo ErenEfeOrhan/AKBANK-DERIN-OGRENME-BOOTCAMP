@@ -46,6 +46,3 @@ Metrikler: Doğruluk (Accuracy)
 Sonuçlar
 Model, eğitim sürecinde doğruluk ve kayıp fonksiyonu gibi metriklerle değerlendirilecektir. Eğitim süreci sonunda modelin performansı incelenecektir.
 
-Kaggle Notebook Linki
-
-
